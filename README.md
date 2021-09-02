@@ -7,7 +7,7 @@ After a bootcamp at Ironhack , I'm looking for a junior web dev job.
 
 My experience with customers , my organizational skills and my motivation to continue learning will be an asset to your company.
 <br>
-
+<br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathilde-tomba/)
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/-YOUTUBE-red?&style=for-the-badge&logo=youtube" />](https://www.youtube.com/channel/UCVff3pLdxoxJctFWUn0dbgA)
