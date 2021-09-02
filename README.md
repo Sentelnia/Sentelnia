@@ -1,7 +1,11 @@
 ### Hello World 👋
 I am a junior web Developer from France
--  💻 Working on frontend and backend projects using React and Nodejs
-- 🌱 Improve myself and continue to learn
+
+I set myself a new challenge 💪, to leave my job as an esthetician 💻 for the dev.
+
+After a bootcamp at Ironhack , I'm looking for a junior web dev job.
+
+My experience with customers , my organizational skills and my motivation to continue learning will be an asset to your company.
 <br>
 
 ## Connect with me
