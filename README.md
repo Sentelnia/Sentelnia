@@ -12,7 +12,6 @@ My experience with customers , my organizational skills and my motivation to con
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathilde-tomba/)
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/-YOUTUBE-red?&style=for-the-badge&logo=youtube" />](https://www.youtube.com/channel/UCVff3pLdxoxJctFWUn0dbgA)
 [<img align="left" alt="codewars" src="https://img.shields.io/badge/-CodeWars-brown?&style=for-the-badge&logo=codewars" />](https://www.codewars.com/users/Sentelnia)
-
 <br>
 <br>
 ## Skils
