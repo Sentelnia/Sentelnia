@@ -6,6 +6,8 @@ I set myself a new challenge 💪, to leave my job as an esthetician 💻 for th
 After a bootcamp at Ironhack , I'm looking for a junior web dev job.
 
 My experience with customers , my organizational skills and my motivation to continue learning will be an asset to your company.
+
+For more , go to my [portfolio](https://sentelnia-portfolio.herokuapp.com/)
 <br>
 <br>
 ## Connect with me
